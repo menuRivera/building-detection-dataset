@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Crece</folder>
+	<filename>IMG_5936.JPG</filename>
+	<path>C:\Users\la364\Desktop\images\Crece\IMG_5936.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>21</ymin>
+			<xmax>3818</xmax>
+			<ymax>2173</ymax>
+		</bndbox>
+	</object>
+</annotation>

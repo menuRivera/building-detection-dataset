@@ -1,0 +1,2 @@
+Ahi quedaron las memofotos, en la primer carpeta images, estan las fotos jpg, en la carpet labels eestan las coordenadas de las etiquetas,
+y en la carpeta labels xml tambien estan las etiquetas de las coordenadas, pero en formato xml
